@@ -9,4 +9,6 @@ A Computer Science student based in Romania!
 
 # 💻 Skills in
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,arduino,sqlite,matlab,ubuntu)](https://skillicons.dev)
+
+# #️⃣ Worked With
 [![Worked With](https://skillicons.dev/icons?i=github,gitlab)](https://skillicons.dev)

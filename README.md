@@ -3,7 +3,7 @@
 A Computer Science student based in Romania!
 
 # 🍀 About me
-⭐ I'm a software engineer who is passionate about coding, problem-solving, and building cool projects.<br>
+⭐ I'm a computer engineer who is passionate about coding, problem-solving, and building cool projects.<br>
 ⭐ Currently studying Computer Science in Romania and constantly learning new tools and technologies.<br>
 ⭐ Eager to collaborate on impactful projects that make a difference.<br>
 

@@ -1,6 +1,6 @@
 # Hello ✌️, I'm Gog Rares 
 
-A Computer Science student based in Romania!
+A Computer Engineering student based in Romania!
 
 # 🍀 About me
 ⭐ I'm a computer engineer who is passionate about coding, problem-solving, and building cool projects.<br>
